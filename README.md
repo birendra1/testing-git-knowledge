@@ -1,2 +1,2 @@
 # testing-git-knowledge
-Rspository design for testing git knowlege
+Testing for git knowledge for node js envirnoment, with version contol best practices
